@@ -1,6 +1,6 @@
 # OW_ItalianPatch
 
-This patch for Old World is inspired by https://github.com/ShadowDuke/OW_GermanPatch. Installation instruction are the same.
+This patch for [Old World](https://mohawkgames.com/oldworld/) is inspired by https://github.com/ShadowDuke/OW_GermanPatch. Installation instruction are the same.
 
 Delete any previous files/directories from earlier versions of this patch
 
